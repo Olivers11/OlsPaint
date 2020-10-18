@@ -1,0 +1,135 @@
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:478  y:302 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:450  y:570 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:650  y:271 color: 15
+Elemento #: 0
+Tipo: Circulo  -- Posicion x:397  y:214 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:179  y:399 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:403  y:538 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:541  y:530 color: 15
+Elemento #: 0
+Tipo: Linea  -- Posicion x:276  y:362 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:330  y:288 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:526  y:319 color: 15
+Elemento #: 0
+Tipo: Circulo  -- Posicion x:785  y:6 color: 15
+Elemento #: 0
+Tipo: Circulo  -- Posicion x:498  y:109 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:485  y:265 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:484  y:412 color: 15
+Elemento #: 0
+Tipo: Cuadrado  -- Posicion x:421  y:582 color: 15
+Elemento #: 0
+Tipo: Linea  -- Posicion x:548  y:591 color: 15
+Elemento #: 0
+Elemento #: 1
+Tipo: Cuadrado  -- Posicion x:291  y:325 color: 15
+Elemento #: 2
+Tipo: Cuadrado  -- Posicion x:402  y:41 color: 15
+Elemento #: 3
+Tipo: Cuadrado  -- Posicion x:435  y:274 color: 15
+Elemento #: 4
+Tipo: Linea  -- Posicion x:540  y:419 color: 15
+Elemento #: 5
+Tipo: Linea  -- Posicion x:285  y:445 color: 15
+Elemento #: 6
+Tipo: Circulo  -- Posicion x:38  y:220 color: 15
+Elemento #: 7
+Tipo: Circulo  -- Posicion x:129  y:247 color: 15
+Elemento #: 8
+Tipo: Circulo  -- Posicion x:91  y:372 color: 15
+Elemento #: 9
+Tipo: Circulo  -- Posicion x:142  y:327 color: 15
+Elemento #: 10
+Tipo: Circulo  -- Posicion x:179  y:288 color: 15
+Elemento #: 11
+Tipo: Circulo  -- Posicion x:35  y:292 color: 15
+Elemento #: 12
+Tipo: Circulo  -- Posicion x:74  y:297 color: 15
+Elemento #: 20
+Tipo: Circulo  -- Posicion x:286  y:340 color: 15
+Elemento #: 21
+Tipo: Circulo  -- Posicion x:776  y:14 color: 15
+Elemento #: 1
+Tipo: Linea  -- Posicion x:142  y:44 color: 4
+Elemento #: 2
+Tipo: Linea  -- Posicion x:251  y:388 color: 15
+Elemento #: 3
+Tipo: Linea  -- Posicion x:377  y:397 color: 15
+Elemento #: 4
+Tipo: Linea  -- Posicion x:144  y:41 color: 4
+Elemento #: 5
+Tipo: Linea  -- Posicion x:355  y:513 color: 15
+Elemento #: 6
+Tipo: Linea  -- Posicion x:198  y:580 color: 15
+Elemento #: 7
+Tipo: Cuadrado  -- Posicion x:605  y:456 color: 15
+Elemento #: 8
+Tipo: Cuadrado  -- Posicion x:527  y:514 color: 15
+Elemento #: 13
+Tipo: Linea  -- Posicion x:289  y:572 color: 15
+Elemento #: 14
+Tipo: Linea  -- Posicion x:141  y:41 color: 4
+Elemento #: 15
+Tipo: Linea  -- Posicion x:361  y:493 color: 15
+Elemento #: 16
+Tipo: Linea  -- Posicion x:630  y:188 color: 15
+Elemento #: 17
+Tipo: Linea  -- Posicion x:173  y:251 color: 15
+Elemento #: 1
+Tipo: Circulo  -- Posicion x:273  y:292 color: 15
+Elemento #: 2
+Tipo: Circulo  -- Posicion x:144  y:47 color: 4
+Elemento #: 3
+Tipo: Circulo  -- Posicion x:432  y:299 color: 15
+Elemento #: 4
+Tipo: Circulo  -- Posicion x:333  y:407 color: 15
+Elemento #: 5
+Tipo: Linea  -- Posicion x:497  y:401 color: 15
+Elemento #: 6
+Tipo: Linea  -- Posicion x:140  y:40 color: 4
+Elemento #: 7
+Tipo: Linea  -- Posicion x:620  y:384 color: 15
+Elemento #: 8
+Tipo: Linea  -- Posicion x:141  y:44 color: 4
+Elemento #: 9
+Tipo: Linea  -- Posicion x:157  y:543 color: 15
+Elemento #: 10
+Tipo: Linea  -- Posicion x:403  y:470 color: 15
+Elemento #: 11
+Tipo: Linea  -- Posicion x:230  y:525 color: 15
+Elemento #: 1
+Tipo: Circulo  -- Posicion x:311  y:282 color: 15
+Elemento #: 2
+Tipo: Circulo  -- Posicion x:146  y:44 color: 15
+Elemento #: 3
+Tipo: Circulo  -- Posicion x:450  y:254 color: 15
+Elemento #: 4
+Tipo: Circulo  -- Posicion x:143  y:45 color: 4
+Elemento #: 5
+Tipo: Circulo  -- Posicion x:95  y:376 color: 15
+Elemento #: 6
+Tipo: Circulo  -- Posicion x:143  y:42 color: 4
+Elemento #: 7
+Tipo: Circulo  -- Posicion x:279  y:458 color: 15
+Elemento #: 8
+Tipo: Circulo  -- Posicion x:608  y:480 color: 15
+Elemento #: 9
+Tipo: Circulo  -- Posicion x:704  y:359 color: 15
+Elemento #: 1
+Tipo: Circulo  -- Posicion x:334  y:341 color: 15
+Elemento #: 1
+Tipo: Circulo  -- Posicion x:342  y:268 color: 15
+Elemento #: 2
+Tipo: Circulo  -- Posicion x:180  y:417 color: 15
+Elemento #: 3
+Tipo: Circulo  -- Posicion x:454  y:453 color: 15
